@@ -1,5 +1,7 @@
 # Projet-Software-Engineering
 
+Edouard D'ABOVILLE, Mathéo DUGUE, Victor GELINEAU
+
 ## LiveChat – Système de Chat en Temps Réel
 
 Système de chat en temps réel construit avec Node.js, React, et WebSockets via la bibliothèque **socket.io**. L’objectif est de permettre à plusieurs utilisateurs d’échanger des messages instantanément dans différents canaux (channels), tout en offrant des statistiques d’utilisation (nombre de messages, top des canaux, etc.). 
